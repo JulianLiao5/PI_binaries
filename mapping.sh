@@ -1,0 +1,1 @@
+./simple_controller -mode offline_slam -calib_file calib_PerceptIn_V1_2104.json -config_file config_stereo_ultimate_V1.json -vocabulary_file voc.json -log_directory /home/julian/PerceptIn/made_in_pi/V1/dataset/20171031_1455_SH/1509422081895
