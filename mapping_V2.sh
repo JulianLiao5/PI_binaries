@@ -1,0 +1,1 @@
+./simple_controller -mode offline_slam -calib_file /home/julian/PerceptIn/made_in_pi/V2/IDs/calib_PerceptIn_Ironsides_3039.json -config_file config_stereo_ultimate_V2.json -vocabulary_file voc.json -log_directory /home/julian/PerceptIn/made_in_pi/V2/dataset/1509709783079 -map_file sparse_map_V2_0776.json
